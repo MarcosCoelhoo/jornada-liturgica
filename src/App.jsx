@@ -98,10 +98,10 @@ function App() {
             encontrada aqui, sob a proteção da{' '}
             <span className="footer-highlight">Virgem Maria</span>, ilumine seus
             dias, inspirando-o a levar consigo as bênçãos e ensinamentos da
-            liturgia para o mundo além dessas páginas. Agradecemos por
-            compartilhar esta experiência e desejamos que a paz e a graça
-            divina, sob o olhar amoroso de Nossa Senhora, estejam sempre
-            presentes em sua jornada espiritual.
+            liturgia para o mundo além dessas páginas. Agradeço por compartilhar
+            esta experiência e desejo que a paz e a graça divina, sob o olhar
+            amoroso de Nossa Senhora, estejam sempre presentes em sua jornada
+            espiritual.
           </p>
         </div>
       </footer>
