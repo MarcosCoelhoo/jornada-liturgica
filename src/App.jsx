@@ -110,7 +110,7 @@ function App() {
         <p className="credits-text">
           Feito por{' '}
           <a
-            href="https://www.instagram.com/marcos_dev.jsx/"
+            href="https://www.instagram.com/Mdev.web/"
             target="_blank"
             rel="noreferrer"
           >
