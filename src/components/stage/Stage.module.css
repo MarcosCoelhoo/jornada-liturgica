@@ -1,0 +1,90 @@
+.stageBox {
+  display: flex;
+  padding: 64px 76px;
+  gap: 42px;
+  background: var(--main-100);
+}
+
+.stageBox:nth-child(even) {
+  flex-direction: row-reverse;
+  background: var(--black-50);
+}
+
+.image {
+  width: 80%;
+  position: relative;
+}
+
+.image img {
+  border-radius: 4px;
+}
+
+.imageDetail {
+  position: absolute;
+  font-family: var(--font-title);
+  font-size: 3.5rem;
+  color: var(--main-50);
+  background: var(--main-950);
+  border-radius: 4px 0 50% 0;
+  left: 0;
+  top: 0;
+  padding: 0 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.title {
+  font-family: var(--font-title);
+  font-size: 3.5rem;
+  color: var(--main-700);
+  font-weight: 500;
+}
+
+.text {
+  font-family: var(--font-text);
+  font-size: 1.25rem;
+  color: var(--black-800);
+  font-weight: 300;
+  max-width: 92ch;
+}
+
+@media (max-width: 1000px) {
+  .stageBox {
+    flex-direction: column-reverse;
+    gap: 16px;
+  }
+  
+  .stageBox:nth-child(even) {
+    flex-direction: column-reverse;
+  }
+
+  .image {
+    width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .stageBox {
+    padding: 3rem 2rem;
+  }
+  
+  .title {
+  font-size: 2.5rem;
+  }
+
+  .text {
+    font-size: 1rem;
+   
+  }
+
+  .imageDetail {
+    font-size: 2rem;
+  }
+}

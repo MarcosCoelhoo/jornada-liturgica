@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ritos Iniciais",
+    "text": "Ao cruzarmos o limiar da igreja, os Ritos Iniciais nos conduzem a uma jornada espiritual. A entrada solene, marcada por cânticos, simboliza nossa comunidade caminhando em direção a Deus. Traçando o sinal da cruz, invocamos a Trindade, preparando nossos corações. A saudação do sacerdote nos convida a deixar as preocupações externas, enquanto o ato penitencial e o hino de louvor estabelecem um tom de humildade e adoração. Estes ritos são mais que formais; são a abertura de um livro sagrado, antecipando o divino encontro que está prestes a acontecer.",
+    "number": "01",
+    "image": "stage1"
+  },
+  {
+    "title": "Rito da palavra",
+    "text": "No Rito da Palavra, mergulhamos em um diálogo sagrado com Deus por meio das Escrituras. As leituras, salmos e ensinamentos proclamados tornam-se uma fonte de luz, guiando-nos em nossa jornada espiritual. A Palavra de Deus não é apenas lida, mas vive e ecoa em nossos corações, desafiando-nos a viver segundo Seus ensinamentos. O Evangelho, ápice desse diálogo, traz as palavras vivas de Jesus, ecoando através dos séculos. A homilia oferece insights e aplicações práticas, tornando o Rito da Palavra um momento de encontro transformador, onde somos nutridos pela sabedoria divina para enfrentar os desafios da vida.",
+    "number": "02",
+    "image": "stage2"
+  },
+  {
+    "title": "Rito Sacramental",
+    "text": "No Rito Sacramental, a liturgia se torna um canal tangível para a graça divina. Este momento culmina na celebração da Eucaristia, onde o pão e o vinho se transformam no corpo e sangue de Cristo. Ao receber a Sagrada Comunhão, experimentamos uma comunhão íntima com o Senhor, renovando nossa fé e alimentando nossa alma. Além disso, os outros sacramentos, como a Confissão e a Unção dos Enfermos, são momentos preciosos de cura espiritual e renovação. O Rito Sacramental na missa é um convite para nos aproximarmos da fonte inesgotável da graça divina, permitindo que nossas vidas sejam transformadas pelos sacramentos que fortalecem, curam e santificam.",
+    "number": "03",
+    "image": "stage3"
+  },
+  {
+    "title": "Ritos Finais",
+    "text": "Nos Ritos Finais, encerramos a celebração com a bênção e a despedida, mas também com uma comissão divina. O sacerdote invoca a graça de Deus sobre a comunidade, fortalecendo-nos para a jornada que se inicia além das portas da igreja. A assembleia é enviada com a missão de levar a luz da fé e o amor de Cristo aos lugares onde a escuridão prevalece. Assim, os Ritos Finais não marcam apenas o fim da missa, mas o começo de nossa missão cotidiana como discípulos, abençoados para irradiar a esperança e a compaixão no mundo.",
+    "number": "04",
+    "image": "stage4"
+  }
+]
