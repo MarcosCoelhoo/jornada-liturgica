@@ -1,7 +1,7 @@
 .container {
   margin: 0 auto;
   width: 100%;
-  max-width: 100rem;
+  max-width: 130rem;
   /* height: 100%; */
   height: 100vh;
   background: url('../../assets/hero-image.webp') center center no-repeat;
