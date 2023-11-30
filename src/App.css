@@ -137,6 +137,8 @@ img {
   font-size: 1.25rem;
   color: var(--black-100);
   font-weight: 300;
+  max-width: 100ch;
+
 }
 
 .footer-highlight {
